@@ -9,3 +9,4 @@ Welcome to my journey of reading and dissecting research papers over the next 10
 | 📅 **Date** | 📖 **Title** | 🔗 **Link** | 
 |------------|-------------|------------| 
 | 01-02-2025 | Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor | [Read here](https://arxiv.org/abs/1801.01290)
+|01-02-2025 | Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations | [Read Here](https://www.eecs.harvard.edu/~htk/publication/2019-mapl-tillet-kung-cox.pdf)
